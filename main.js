@@ -568,7 +568,7 @@ geek2();
 console.groupEnd("RegExp");
 
 
-console.group("Miscellaneous");
+console.groupCollapsed("Miscellaneous");
 //This Keyword
 let myObj = {
     name:"Anant Dargude",
